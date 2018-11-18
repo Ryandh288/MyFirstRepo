@@ -1,3 +1,2 @@
 # MyFirstRepo
 
-Line of text
